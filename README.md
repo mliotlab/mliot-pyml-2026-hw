@@ -54,10 +54,10 @@ git push origin main
 | Thư mục | Tuần | Nội dung |
 |---|---|---|
 | `week01` | Tuần 1 | Buổi 1 — Đại số tuyến tính · Buổi 2 — Xác suất thống kê |
-| `week02` | Tuần 2 | Buổi 3 — Gradient Descent · Buổi 4 — NumPy & Pandas |
-| `week03` | Tuần 3 | Buổi 5 — ML & Tiền xử lý · Buổi 6 — Hồi quy tuyến tính |
+| `week02` | Tuần 2 | Buổi 3 — Gradient Descent · Buổi 4 — NumPy, Pandas & Visualization |
+| `week03` | Tuần 3 | Buổi 5 — ML & Tiền xử lý · Buổi 6 — Linear Regression |
 | `week04` | Tuần 4 | Buổi 7 — Logistic & KNN · Buổi 8 — Tree & Random Forest |
-| `week05` | Tuần 5 | Buổi 9 — Clustering · Buổi 10 — Giảm chiều (SVD) |
+| `week05` | Tuần 5 | Buổi 9 — Clustering · Buổi 10 — SVD |
 | `week06` | Tuần 6 | Buổi 11 — SVM · Buổi 12 — Ensemble + **Kiểm tra giữa kỳ** |
 | `week07` | Tuần 7 | Buổi 13 — Deep Learning & MLP · Buổi 14 — CNN |
 | `week08` | Tuần 8 | Buổi 15 — Attention & Transformer · Buổi 16 — Object Detection |
@@ -71,6 +71,7 @@ git push origin main
 
 - Đặt bài làm vào **đúng thư mục tuần** (`weekXX/`).
 - Định dạng: notebook `.ipynb` hoặc file `.py`; đặt tên rõ ràng, ví dụ `buoi01_nguyenvana.ipynb`.
+- Nếu đề đã cung cấp notebook khung, chỉnh sửa trực tiếp file đó và **không đổi tên hoặc di chuyển file**.
 - Commit message rõ ràng: `week01: hoan thanh bai tap buoi 1`.
 - **Không commit** dữ liệu lớn / file nặng (đã cấu hình trong `.gitignore`).
 
@@ -89,4 +90,4 @@ pip install -r requirements.txt
 
 ---
 
-*Machine Learning & IoT Lab — Khoa Điện–Điện tử, Đại học Bách khoa - ĐHQG TP.HCM*
+*Machine Learning & IoT Lab — Khoa Điện–Điện tử,Trường Đại học Bách khoa - ĐHQG TP.HCM*

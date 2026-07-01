@@ -22,6 +22,10 @@ data/
 datasets/
 checkpoints/
 
+# Dataset nhỏ được phân phối kèm homework tuần 2
+!week02/numpy-pandas-eda-hw/data/
+!week02/numpy-pandas-eda-hw/data/automobile_raw.csv
+
 # Hệ điều hành / IDE
 .DS_Store
 Thumbs.db
